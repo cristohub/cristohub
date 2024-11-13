@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;Building+Dynamic+User+Experiences;Pushing+the+Limits+of+Web+Design" alt="Typing SVG">
 </p>
+
 ---
+
 ## 🌟 Skills and Tools
 <p align="center">
   <!-- Programming Languages -->
@@ -36,11 +38,14 @@
   <a href="https://www.sql.org/" target="_blank" rel="noreferrer" title="SQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40" />
   </a>
+  
   <!-- Design Tools -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
   </a>
 </p>
+
+---
 ## 🌐 Connect with Me
 <p align="center">
   <a href="mailto:cristofersani04@gmail.com" target="_blank">
@@ -52,7 +57,9 @@
          style="border-radius: 50%; width: 60px; height: 60px; object-fit: cover;" />
   </a>
 </p>
+
 ---
+
 ## 🔮 Future Projects
 <p align="center">
   New projects coming soon. Stay tuned for updates!
