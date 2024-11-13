@@ -51,16 +51,14 @@
 ## 🌐 Connect with Me
 <p align="center">
   <a href="mailto:cristofersani04@gmail.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/e23fa189-458e-4250-a261-b241acde755a"
+    <img src="https://github.com/user-attachments/assets/35a51855-2b0c-41c6-8131-e2d0cf736ff9"
          style="border-radius: 50%; width: 60px; height: 60px; object-fit: cover;" />
   </a>
   <a href="https://www.linkedin.com/in/cristofersani" target="_blank">
-    <img src="https://github.com/user-attachments/assets/aed714c2-7bf9-4ce5-9b28-c4020fc72187"
+    <img src="https://github.com/user-attachments/assets/15ce5cd7-4f7c-4efd-bdbd-91e4aec853f6"
          style="border-radius: 50%; width: 60px; height: 60px; object-fit: cover;" />
   </a>
 </p>
-
-
 
 ---
 
