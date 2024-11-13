@@ -8,9 +8,6 @@
 
 ## 🌟 Skills and Tools
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=FF6347&center=true&vCenter=true&width=435&lines=Skills+and+Tools" alt="Typing SVG">
-</p>
-<p align="center">
   <!-- Programming Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
